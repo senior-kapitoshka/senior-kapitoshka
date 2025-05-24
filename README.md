@@ -4,6 +4,9 @@ I'm Code Enjoer, мне интересны все аспекты кодинга 
 Постоянно учусь новому, фонтанирую идеями, экспериментирую и кайфую от процесса разработки.
 
 ---
+[![Codewars](https://www.codewars.com/users/senior_kapitoshka/badges/large?theme=light)](https://www.codewars.com/users/senior_kapitoshka)
+
+---
 
 ## 🧠 Всего по-немногу
 
@@ -14,7 +17,6 @@ I'm Code Enjoer, мне интересны все аспекты кодинга 
 - 🗄️ SQL
 - and more...
 
-[![Codewars](https://www.codewars.com/users/senior_kapitoshka/badges/large?theme=light)](https://www.codewars.com/users/senior_kapitoshka)
 
 ---
 
