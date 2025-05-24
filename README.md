@@ -28,7 +28,7 @@ I'm Code Enjoer, мне интересны все аспекты кодинга 
 
 | [🔗 Паззл Bubble Solitaire на Vue3 ](https://senior-kapitoshka.github.io/Bubble-Solitaire-Puzzle-Vue-3) | 
 
-| [🔗 Небольшое meetup-приложение для поиска единомышленников по интересам на базе Angular + Spring Boot ](https://hit-it-off-fullstack-angular-spring.onrender.com/) | 
+| [🔗 Небольшое meetup-приложение на базе Angular + Spring Boot ](https://hit-it-off-fullstack-angular-spring.onrender.com/) | 
 
 ...список будет пополняться!
 
