@@ -22,11 +22,11 @@ I'm Code Enjoer, мне интересны все аспекты кодинга 
 
 ## 🚧 Примеры работ
 
-| [🔗 Веб-страничка для создания простейшего QR-кода ](https://github.com/senior-kapitoshka/Simple-QR-Code-Generator-Web-App) | 
+| [🔗 Веб-страничка для создания простейшего QR-кода ](https://senior-kapitoshka.github.io/Simple-QR-Code-Generator-Web-App) | 
 
-| [🔗 Паззл Lights Out на ReactorJs ](https://github.com/senior-kapitoshka/Lights-Out-Puzzle-ReactJS) | 
+| [🔗 Паззл Lights Out на ReactorJs ](https://senior-kapitoshka.github.io/Lights-Out-Puzzle-ReactJS/) | 
 
-| [🔗 Паззл Bubble Solitaire на Vue3 ](https://github.com/senior-kapitoshka/Bubble-Solitaire-Puzzle-Vue-3) | 
+| [🔗 Паззл Bubble Solitaire на Vue3 ](https://senior-kapitoshka.github.io/Bubble-Solitaire-Puzzle-Vue-3) | 
 
 | [🔗 Небольшое meetup-приложение для поиска единомышленников по интересам на базе Angular + Spring Boot ](https://hit-it-off-fullstack-angular-spring.onrender.com/) | 
 
