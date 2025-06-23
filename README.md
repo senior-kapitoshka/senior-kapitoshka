@@ -12,6 +12,7 @@ I'm Code Enjoer, мне интересны все аспекты кодинга 
 
 - 🔹 C / C++
 - ☕ Java
+- 🐘 PHP
 - 📜 JavaScript / TypeScript
 - 🌐 HTML / CSS
 - 🗄️ SQL
