@@ -31,6 +31,8 @@ I'm Code Enjoer, мне интересны все аспекты кодинга 
 
 | [🔗 Небольшое meetup-приложение на базе Angular + Spring Boot ](https://hit-it-off-fullstack-angular-spring.onrender.com/) | 
 
+| [🔗 Конструктор резюме на ReactorTs ](https://senior-kapitoshka.github.io/Resume-Constructor-ReactTS) |
+
 ...список будет пополняться!
 
 ## 📫 Связь
