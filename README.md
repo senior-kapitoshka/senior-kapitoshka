@@ -6,18 +6,6 @@ I'm Code Enjoer, мне интересны все аспекты кодинга 
 ---
 [![Codewars](https://www.codewars.com/users/senior_kapitoshka/badges/large?theme=light)](https://www.codewars.com/users/senior_kapitoshka)
 
----
-
-## 🧠 Всего по-немногу
-
-- 🔹 C / C++
-- ☕ Java
-- 🐘 PHP
-- 📜 JavaScript / TypeScript
-- 🌐 HTML / CSS
-- 🗄️ SQL
-- and more...
-
 
 ---
 
