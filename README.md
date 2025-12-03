@@ -25,7 +25,7 @@ I'm Code Enjoer, мне интересны все аспекты кодинга 
 
 ## 📫 Связь
 
-- Telegram: @senior_kapitoshka
+- Telegram: @kapitoshiytch
 
 ---
 
