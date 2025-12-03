@@ -15,9 +15,7 @@ I'm Code Enjoer, мне интересны все аспекты кодинга 
 
 | [🔗 Паззл Lights Out на ReactorJs ](https://senior-kapitoshka.github.io/Lights-Out-Puzzle-ReactJS/) | 
 
-| [🔗 Паззл Bubble Solitaire на Vue3 ](https://senior-kapitoshka.github.io/Bubble-Solitaire-Puzzle-Vue-3) | 
-
-| [🔗 Небольшое meetup-приложение на базе Angular + Spring Boot ](https://hit-it-off-fullstack-angular-spring.onrender.com/) | 
+| [🔗 Паззл Bubble Solitaire на Vue3 ](https://senior-kapitoshka.github.io/Bubble-Solitaire-Puzzle-Vue-3) |  
 
 | [🔗 Конструктор резюме на ReactorTs ](https://senior-kapitoshka.github.io/Resume-Constructor-ReactTS) |
 
